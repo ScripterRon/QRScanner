@@ -22,4 +22,4 @@ Here are the steps for a manual build.  You will need to install Maven 3 and Jav
 
 Sample Windows shortcut:	
 
-	javaw.exe -Xmx256m -jar \Bitcoin\QRScanner\QRScanner-1.0.0.jar PROD
+	javaw.exe -Xmx256m -jar \Bitcoin\QRScanner\QRScanner-1.0.0.jar
